@@ -1,0 +1,11 @@
+html{
+  text-size-adjust: 22px;
+}
+body{
+  background-color: black;
+  color: whitesmoke;
+}
+
+a:hover, a:active {
+  color: #eee;
+}
